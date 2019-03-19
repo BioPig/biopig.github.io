@@ -1,7 +1,7 @@
 # Site settings
 title: Bio Pig
 SEOTitle: 邓北的博客 | Bio Pig
-header-img: img/dd68a254650effa2eb9a4ea72929316.jpg
+header-img: img/d68a254650effa2eb9a4ea72929316.jpg
 email: 630950832@qq.com
 description: "this is my fist blog."
 keyword: "Bio Pig, 邓北的博客"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/biopig/biopig.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/285a4949dce5f380a9b8d54f3272316.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/85a4949dce5f380a9b8d54f3272316.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
