@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      sambamba的安装
+subtitle:   
+date:       2019-03-26
+author:     BY
+header-img: img/post-bg-BJJ.jpg
+catalog: true
+tags:
+    - BJJ
+---
+
 下载文件
 ```
 wget -c https://github.com/biod/sambamba/archive/v0.6.9.tar.gz
