@@ -59,9 +59,10 @@ kramdown:
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
+#没有gitalk，暂时先不管这个
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: biopig.github.io    #仓库名称
@@ -99,14 +100,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: ""
+        title: "飞飞",
+        href: "https://user.qzone.qq.com/545055250?source=aiostar"
     },{
-        title: "简书·BY",
-        href: "https://www.jianshu.com/u/7ab59873d97a"
+        title: "北北",
+        href: "https://user.qzone.qq.com/1565019417?source=aiostar"
     },{
-        title: "Apple",
-        href: ""
+        title: "彬彬",
+        href: "https://user.qzone.qq.com/1102772217?source=aiostar"
     },{
         title: "Apple Developer",
         href: ""
